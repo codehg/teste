@@ -14,6 +14,6 @@ $ git add <nome do arquivo> #adiciona o arquivo a ser commitado
 ou se for todos os arquivos
 $ git add . #adiciona o arquivo a ser commitado
 $ git commit -m "Descrição do commit" "envia
-$ git push origin master
+$ git push 
 
 ```
