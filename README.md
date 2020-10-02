@@ -16,4 +16,6 @@ $ git add . #adiciona o arquivo a ser commitado
 $ git commit -m "Descrição do commit" "envia
 $ git push 
 
+opcional -> git log #retorna a lista de commits
+
 ```
